@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         super.onStart();
     }
- // beans beans beans
+ // beans beans beans beabs adsasfd
     @Override
     protected void onRestart() {
         Log.i("lab1i", " testi");
